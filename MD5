@@ -1,0 +1,15 @@
+df1e6ee1883c69cf2bff9c0f135b97c3 *DESCRIPTION
+cb851e2167dabfa7a12c0a62a771bb26 *NAMESPACE
+d7d6227a895b6e3006a79585fc84e127 *R/Predict.esknnClass.R
+6470309f7128c8c1f4d240ee86582ab8 *R/Predict.esknnProb.R
+1fbf2cc02a5214066ebfcb3adcca967d *R/esknnClass.R
+61abf7ca61fb8e7c4bff8c7ae5964cd1 *R/esknnProb.R
+25f67ec064173b37ec2dc3dc81988a85 *data/hepatitis.rda
+6d852dc53ef863702a874ebee134ce33 *data/sonar.rda
+5354e091329d37c4c17f04ae25069423 *man/ESKNN-package.Rd
+0a0b0d7058b1f73932d9d3015a2e47a2 *man/Predict.esknnClass.Rd
+f234e851aa9c516433974e6498c28ce7 *man/Predict.esknnProb.Rd
+33ab664f689f0ae14e77bf548e941531 *man/esknnClass.Rd
+a5516ce77b9b200e9c06681a7a98b7b5 *man/esknnProb.Rd
+e518940af9fe919f9c1d5dc0982f745a *man/hepatitis.Rd
+bd33b028a66468062d25fa563af7e8ec *man/sonar.Rd
